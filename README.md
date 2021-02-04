@@ -8,7 +8,9 @@
 
  The data set was retrieved from : https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
- Dataset: folder with the dataset used for model building. This is a custom dataset that contains covid-19 x-ray images, viral pneumonia x-ray images, bacterial pneumonia x-ray iamges and normal person x-ray images.
+ Dataset: folder with the training dataset used for model building.
+ Test: folder with the test dataset used for model validation. 
+ This is a custom dataset that contains covid-19 x-ray images, viral pneumonia x-ray images, bacterial pneumonia x-ray iamges and normal person x-ray images.
  
  Dataset Sources: https://github.com/ieee8023/covid-chestxray-dataset , https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia 
 
