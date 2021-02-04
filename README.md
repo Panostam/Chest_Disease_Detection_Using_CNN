@@ -10,7 +10,6 @@
 
  Dataset: folder with the dataset used for model building. This is a custom dataset that contains covid-19 x-ray images, viral pneumonia x-ray images, bacterial pneumonia x-ray iamges and normal person x-ray images.
  
- Dataset Sources: a) https://github.com/ieee8023/covid-chestxray-dataset , 
-   b) https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia 
+ Dataset Sources: https://github.com/ieee8023/covid-chestxray-dataset , https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia 
 
  Chest_Disease_Detection_Using_CNN.ipynb: the jupyter notebook containing the code. 
